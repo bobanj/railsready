@@ -1,5 +1,5 @@
-##Rails Ready
-####Get a full Ruby on Rails stack up with one command :)
+#Rails Ready
+##Get a full Ruby on Rails stack up with one command :)
 
 ##Run this on a fresh install. Tested on Ubuntu server 10.04 lts
 
