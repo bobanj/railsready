@@ -19,7 +19,7 @@ echo "done.."
 # Install build tools
 echo "Installing build tools..."
 sudo apt-get -y install \
-    wget build-essential libxslt1.1 libssl-dev libxslt1-dev libxml2 libffi-dev libyaml-dev libreadline5-dev zlib1g-dev >> install.log
+    wget build-essential libxslt1.1 libssl-dev libxslt1-dev libxml2 libffi-dev libyaml-dev libreadline6-dev zlib1g-dev >> install.log
 echo "done..."
 
 echo "Installing libs needed for sqlite and mysql..."
