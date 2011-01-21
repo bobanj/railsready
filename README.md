@@ -9,6 +9,7 @@
 
 ##What this gives you:
 
+  * An updated system
   * Ruby 1.9.2p136
   * Imagemagick
   * libs needed to run Rails (sqlite, mysql, etc)
